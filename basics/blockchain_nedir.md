@@ -38,3 +38,4 @@ En çok **Bitcoin** gibi kripto paralarla tanınsa da, finans, sağlık, tedarik
 
 ## 📊 Basit Görsel Anlatım
 
+<img width="675" height="723" alt="image" src="https://github.com/user-attachments/assets/8df1dd99-1fab-41b5-8ae9-b1a207f814d2" />
