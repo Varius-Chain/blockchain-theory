@@ -1,2 +1,2 @@
 # Kitaplar
--["Mastering Bitcoin" – Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook)
+- ["Mastering Bitcoin" – Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook)
