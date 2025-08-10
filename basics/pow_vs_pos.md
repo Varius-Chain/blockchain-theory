@@ -1,4 +1,4 @@
-# PoW ve PoS Karşılaştırması
+# PoW ve POS Karşılaştırması
 
 Blockchain dünyasında blokların eklenmesi için kullanılan iki popüler konsensüs mekanizması vardır: **Proof of Work (PoW)** ve **Proof of Stake (PoS)**.  
 Her ikisi de ağın güvenliğini sağlar, ancak çalışma mantıkları ve kaynak kullanımları farklıdır.
@@ -61,8 +61,3 @@ Blok doğrulayıcıları (validator), stake ettikleri (kilitledikleri) coin’le
 - **PoS** → Stake edilen coin miktarına göre blok doğrulama (enerji verimli)
 - İki mekanizma da blockchain güvenliği için kullanılır, ancak farklı ihtiyaçlara göre tercih edilir.
 
----
-
-## 📚 Kaynaklar
-- [Proof of Work](https://en.wikipedia.org/wiki/Proof_of_work)
-- [Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake)
