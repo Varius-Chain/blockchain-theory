@@ -55,8 +55,6 @@ SHA-256 Hash: 0573a10888b83a1e8cfdc356edcd3af2a...
 
 ---
 
-## 📚 Kaynaklar
-- [SHA-256 Nedir?](https://en.wikipedia.org/wiki/SHA-2)
 
 
 
