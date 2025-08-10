@@ -76,6 +76,3 @@ Ortadaki bir bloğu değiştirirseniz, tüm zincir bozulur.
 - Veri güvenliği ve arşivleme  
 
 ---
-
-> Blockchain, “herkesin görebildiği ama kimsenin silemediği bir defter” gibidir.  
-> İşlemler kronolojik olarak eklenir, şifrelenir ve tüm ağda saklanır.

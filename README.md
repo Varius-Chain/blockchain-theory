@@ -1,7 +1,7 @@
 # Blockchain Theory
 
-Bu repo, blockchain teknolojisi ile ilgili öğrendiğim tüm notları, kaynakları ve örnek projeleri içermektedir.  
-Amaç: Hem kendim öğrenirken düzenli bir kaynak oluşturmak hem de başkalarının faydalanabileceği bir arşiv yapmak.
+Bu repo, blockchain teknolojisi ile ilgili öğrendiğimiz tüm notları, kaynakları ve örnek projeleri içermektedir.  
+Amaç: Hem kendimiz öğrenirken düzenli bir kaynak oluşturmak hem de başkalarının faydalanabileceği bir arşiv yapmak.
 
 ## 📂 İçerik
 - **Temel Kavramlar** → Blockchain nedir, hash, nonce, blok yapısı
