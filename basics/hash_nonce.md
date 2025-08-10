@@ -43,7 +43,8 @@ SHA-256 Hash: 0573a10888b83a1e8cfdc356edcd3af2a...
 ---
 
 ## 📊 Görsel Anlatım
-![hash_nonce](images/pow_vs_pos.png)
+![hash_nonce](../images/hash_nonce.png)
+
 
 ---
 
