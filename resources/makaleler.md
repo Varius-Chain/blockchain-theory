@@ -10,3 +10,6 @@
 - [IBM Blockchain Guide](https://www.ibm.com/think/topics/blockchain)
 
 ---
+- [SHA-256 Nedir?](https://en.wikipedia.org/wiki/SHA-2)
+- [Proof of Work](https://en.wikipedia.org/wiki/Proof_of_work)
+- [Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake)
